@@ -1,0 +1,14 @@
+mysql:
+  user: dnspod
+  password: 123
+  ip: 1.2.3.4
+  port: 3306
+  db: dnspod
+
+dnspod_api_token:
+  you_token1: 
+  you_token2:
+
+others_info:
+  a: test1
+  b: test2
